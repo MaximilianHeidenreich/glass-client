@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "test": "echo 'NAN'",
+        "build": "deno bundle ./mod.ts ./build/glass-client.bundle.js"
+    }
+}
